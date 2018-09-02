@@ -6,7 +6,7 @@ email: bluesky1825821@gmail.com
 description: "Every failure is leading towards success."
 keyword: "BY, BY Blog, beacon的博客, beacon, iOS, Apple, iPhone"
 url: "http://47.96.154.180:10000"          # your host, for absolute URL
-baseurl: "/web/blog"      # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: "/web/log"      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/blueSky1825821/blueSky1825821.github.io" # you code repository
 
 # Sidebar settings
@@ -103,7 +103,7 @@ friends: [
         href: "http://****"
     },{
         title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
+        href: "http://www.jianshu.com/u/"
     },{
         title: "Apple",
         href: "https://apple.com"
